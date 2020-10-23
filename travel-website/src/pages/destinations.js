@@ -10,4 +10,5 @@ const Destinations = () => (
     </Layout>
 )
 
+
 export default Destinations
